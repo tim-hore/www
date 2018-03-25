@@ -1,4 +1,5 @@
 ---
+layout: home
 title: Nonton Pilem Gratis
 excerpt: Secara gituu..nonto pilem itu ga perlu ribet kebanyakan iklan
 ---
