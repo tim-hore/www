@@ -1,4 +1,4 @@
----
+<!--
 layout: home
 ---
 
@@ -6,3 +6,4 @@ layout: home
 
 
 [![Dilan 1990](https://i.ytimg.com/vi/PuiSIwPQWuk/mqdefault.jpg)](//warkopdkireborn2.nontonpilem.ml){:style="display:block;margin:0 auto;text-align:center"}
+-->
