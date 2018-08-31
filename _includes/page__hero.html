@@ -4,7 +4,7 @@
 {% else %}
   {% capture img_path %}{{ page.header.image | relative_url }}{% endcapture %}
 {% endif %}
-{% elsif %}
+{% elsif page.image%}
 {% if page.image contains "://" %}
   {% capture img_path %}{{ page.image }}{% endcapture %}
 {% else %}
