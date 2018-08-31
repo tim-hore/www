@@ -1,15 +1,9 @@
 title: NontonPilem
 email: me@montonpilem.ml
-#description: > # this means to ignore newlines until "baseurl:"
 description: "Nonton Pilem Gratis? di sini aja"
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://nontonpilem.ml
 enforce_ssl: nontonpilem.ml
-#twitter_username: easton042
-#github_username:  easton042
-#linkedin_username:  eastonlee
-
-# Build settings
 markdown: kramdown
 theme: minima
 gems:
@@ -22,13 +16,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .sass-cache
-
 safe: false
 
-# easton
-permalink: /blog/:year/:month/:title/
+permalink: /:year/:month/:title/
 
-# minima theme, deprecated
 show_downloads: false
 # google_analytics: UA-58961104-2
 
@@ -43,15 +34,17 @@ show_downloads: false
 #  }
 #}
 tagline: experientialism
-paginate:            1
+paginate:  5
+
 sass:
   sass_dir:          _sass
   style:            :compressed
+
 author: Pilem
 
 # analytics_id: UA-58961104-2
 
 # disqus:
-  shortname: eastonlee
+#  shortname: eastonlee
 
 excerpt_separator: <!--more-->
