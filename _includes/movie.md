@@ -13,6 +13,7 @@
 | Format | {{ page.video.format }} |
 | Kualitas | {{ page.video.quality }} |
 | Resolusi | {{ page.video.resolution }} |
+| Penerjemah | {{ page.video.translator }} |
 {% if page.video.duration %}| Durasi | {{ page.video.duration }} |{% endif %}
 
 ### Download
