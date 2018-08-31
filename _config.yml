@@ -16,7 +16,7 @@
 title: NontonPilem
 email: me@montonpilem.ml
 #description: > # this means to ignore newlines until "baseurl:"
-description: "Nonton Pilem Gratis? di sini aja 
+description: "Nonton Pilem Gratis? di sini aja"
 baseurl:  # the subpath of your site, e.g. /blog
 url: https://nontonpilem.ml
 enforce_ssl: nontonpilem.ml
