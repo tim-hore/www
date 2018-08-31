@@ -1,7 +1,8 @@
 ---
 title: "Pacific Rim: Uprising (2018) Bluray"
 description: Jake Pentecost, son of Stacker Pentecost, reunites with Mako Mori to lead a new generation of Jaeger pilots.
-image: https://cdnx.kincir.com/production/media/2018/maret/review-pacific-rim-uprising/feature-review-pacific-rim-uprising-1300x500.jpg
+header:
+ image: https://cdnx.kincir.com/production/media/2018/maret/review-pacific-rim-uprising/feature-review-pacific-rim-uprising-1300x500.jpg
 
 ---
 ![{{ page.title }}]({{ page.image }})

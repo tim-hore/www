@@ -1,7 +1,8 @@
 ---
 title: Down a Dark Hall (2018) WEB-dl
 description: Kit Gordy, confronts the institution's supernatural occurrences and dark powers of its headmistress.
-image: https://i1.wp.com/hype.my/wp-content/uploads/2018/08/DADH_11651-1024x593.jpg
+header:
+ image: https://i1.wp.com/hype.my/wp-content/uploads/2018/08/DADH_11651-1024x593.jpg
 
 ---
 

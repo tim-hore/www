@@ -1,7 +1,8 @@
 ---
 title: Doctor Strange (2016) Bluray
 description: Based in New York City's Greenwich Village, Doctor Strange must act as an intermediary between the real world and what lies beyond
-image: https://cdnx.kincir.com/old/2016/10/feat-47-1300x500.jpg
+header:
+ image: https://cdnx.kincir.com/old/2016/10/feat-47-1300x500.jpg
 
 ---
 ![{{ page.title }}]({{ page.image }})

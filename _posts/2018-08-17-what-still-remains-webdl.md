@@ -1,6 +1,7 @@
 ---
 title: What Still Remains (2018) WEB-dl
-image: https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/WHAT-STILL-REMAINS.jpg
+header:
+ image: https://i0.wp.com/bloody-disgusting.com/wp-content/uploads/2018/02/WHAT-STILL-REMAINS.jpg
 description: People become their own kind of monster in this brand new post-apocalyptic thriller
 video:
  title: What Still Remains

@@ -1,7 +1,8 @@
 ---
 title: Viking Destiny (2018) HDrip
 description: A Viking Princess is forced to flee her kingdom after being framed for the murder of her father, the King. 
-image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg
+header:
+ image: https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg
 
 ---
 ![Viking Dedtiny Wallpaper](https://i1.wp.com/pmcvariety.files.wordpress.com/2018/05/viking-destiny.jpg)

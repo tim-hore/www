@@ -1,7 +1,8 @@
 ---
 title: A.I. Tales (2018) WEB-dl
 description: award-winning, science fiction-based short stories about space travel, family, and artificial intelligence.
-image: https://i0.wp.com/decaymag.com/wp-content/uploads/2018/06/a.i-tales.jpg
+header:
+ image: https://i0.wp.com/decaymag.com/wp-content/uploads/2018/06/a.i-tales.jpg
 video:
  title: A.I. Tales
  resolution: 480p, 720p, 1080p

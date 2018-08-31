@@ -1,7 +1,8 @@
 ---
 title: American Animals (2018) WEB-dl
 description: Four young men mistake their lives for a movie and attempt one of the most audacious heists in U.S. history.a movie.
-image: https://cdn.flickeringmyth.com/wp-content/uploads/2018/04/american-animals.png
+header:
+ image: https://cdn.flickeringmyth.com/wp-content/uploads/2018/04/american-animals.png
 video:
  title: American Animals
  quality: WEBDL

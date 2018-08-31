@@ -1,7 +1,8 @@
 ---
 title: Skyscraper (2018) HDrip
 description: On assignment in Hong Kong he finds the tallest, safest building in the world suddenly ablaze, and he's been framed for it.
-image: https://i2.wp.com/static.dezeen.com/uploads/2018/07/the-pearl-skyscraper-movie-dwayne-johnson_dezeen_hero-1024x576.jpg
+header:
+ image: https://i2.wp.com/static.dezeen.com/uploads/2018/07/the-pearl-skyscraper-movie-dwayne-johnson_dezeen_hero-1024x576.jpg
 
 ---
 

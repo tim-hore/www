@@ -1,7 +1,8 @@
 ---
 title: "Rape Zombie: Lust Of The Dead (2012) DVDrip"
 description: After a nuclear attack in Tokyo, the female population is attacked by infected males who have become sex-crazed zombies
-image: https://i1.wp.com/newsplot.ru/uploads/images/yaponskoe-reyp-onlayn.jpg
+header:
+ imageimage: https://i1.wp.com/newsplot.ru/uploads/images/yaponskoe-reyp-onlayn.jpg
 video:
  title: "Rape Zombie: Lust Of The Dead"
  quality: DVDRip

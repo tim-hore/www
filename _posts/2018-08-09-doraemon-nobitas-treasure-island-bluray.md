@@ -1,7 +1,8 @@
 ---
 title: "Doraemon: Nobita's Treasure Island (2018) Bluray"
 description: Doraemon, Nobita, Shizuka, Gian, and Suneo set out on an adventure in the Caribbean Sea
-image: https://vignette.wikia.nocookie.net/doraemon/images/b/b5/Doraemon_2018_Movie_2.jpg/revision/latest/scale-to-width-down/640?cb=20170625005608&path-prefix=en
+header:
+ image: https://vignette.wikia.nocookie.net/doraemon/images/b/b5/Doraemon_2018_Movie_2.jpg/revision/latest/scale-to-width-down/640?cb=20170625005608&path-prefix=en
 video:
  title: "Doraemon: Nobita's Treasure Island"
  distribution: N/A

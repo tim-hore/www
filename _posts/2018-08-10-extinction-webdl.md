@@ -1,7 +1,8 @@
 ---
 title: Extinction (2018) WED-dl
 description: A father has a recurring dream of losing his family
-image: https://i0.wp.com/hdmoviedownload.online/wp-content/uploads/2018/07/1.jpg
+header:
+ image: https://i0.wp.com/hdmoviedownload.online/wp-content/uploads/2018/07/1.jpg
 video:
  title: Extinction
  release: 2018

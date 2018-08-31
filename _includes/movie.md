@@ -13,10 +13,8 @@
 
 ### Description
 
-**Synopsis:** Set in the near-future, technology controls nearly all aspects of life. But when Grey, a self-identified technophobe, has his world turned upside down, his only hope for revenge is an experimental computer chip implant called Stem.
+**Synopsis:** {{ page.video.synopsis }}
 
-**Awards:** 1 win.
-**Budget:** $5,000,000 (estimated)
 {% if page.poster %}
 | P O S T E R |
 |:---:|

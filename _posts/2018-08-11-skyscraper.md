@@ -1,7 +1,8 @@
 ---
 title: Skyscrapper (2018) HDts
 description: Mantan agen FBI bernama Will Sawyer, diberikan tempat perlindungan khusus...
-image: https://i0.wp.com/img-www.tf-cdn.com/movie/2/skyscraper-2018.jpeg
+header:
+ image: https://i0.wp.com/img-www.tf-cdn.com/movie/2/skyscraper-2018.jpeg
 video:
  title: Skyscrapper
  director: Rawson Marshall Thurber

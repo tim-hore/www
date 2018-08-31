@@ -1,7 +1,8 @@
 ---
 title: The Scythian (2018) Bluray
 description: A new era is about to begin in Central Eurasia.
-image: https://m.media-amazon.com/images/M/MV5BMjE3MzRkODYtZjNlYi00OWJkLWExNDQtYTY4OThmNDJmMDEyXkEyXkFqcGdeQXVyNTE5MTMxNDc@._V1_UY1200_CR105,0,630,1200_AL_.jpg
+header:
+ image: https://m.media-amazon.com/images/M/MV5BMjE3MzRkODYtZjNlYi00OWJkLWExNDQtYTY4OThmNDJmMDEyXkEyXkFqcGdeQXVyNTE5MTMxNDc@._V1_UY1200_CR105,0,630,1200_AL_.jpg
 video:
  title: The Last Warrior / The Scythian
  quality: BluRay

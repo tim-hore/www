@@ -1,7 +1,8 @@
 ---
 title: Adrift (2018) WEB-dl
 description: Starring Shailene Woodley and Sam Claflin, Adrift is based on the inspiring true story of two free spirits
-image: https://i0.wp.com/photos.laineygossip.com/articles/adrift-movie-poster-06jun18.jpg 
+header:
+ image: https://i0.wp.com/photos.laineygossip.com/articles/adrift-movie-poster-06jun18.jpg 
 video:
  title: Aidrift
  duration: N/A

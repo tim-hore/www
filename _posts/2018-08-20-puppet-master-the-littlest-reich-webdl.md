@@ -1,7 +1,8 @@
 ---
 title: "Puppet Master: the Litlest Reich (2018) WEB-dl"
 description: All hell breaks loose when a strange force animates the puppets up for auction at a convention, setting them on a bloody killing spree that's motivated by an evil as old as time.
-image: https://cdn3.movieweb.com/i/article/JOPDIZgAmm5yn7JhF2AoyuqLCyAU28/720:50/Puppet-Master-Reboot-Littlest-Reich-Writer-Poster.jpg 
+header:
+ image: https://cdn3.movieweb.com/i/article/JOPDIZgAmm5yn7JhF2AoyuqLCyAU28/720:50/Puppet-Master-Reboot-Littlest-Reich-Writer-Poster.jpg 
 
 ---
 

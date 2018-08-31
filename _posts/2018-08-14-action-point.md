@@ -2,7 +2,8 @@
 layout: post
 title: Action Point (2018) Bluray
 description: Action Point features traditional Jackass-style stunts connected by a fictional narrative.
-image: https://i0.wp.com/www.trbimg.com/img-5b117129/turbine/sc-ent-0601-action1-20180601/1100/1100x619
+header:
+ image: https://i0.wp.com/www.trbimg.com/img-5b117129/turbine/sc-ent-0601-action1-20180601/1100/1100x619
 video:
  title: Action Point
  release: 2018

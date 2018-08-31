@@ -1,7 +1,8 @@
 ---
 title: "Spiderman: Homecoming (2017) Bluray"
 description: Thrilled by his experience with the Avengers, Peter returns home, where he lives with his Aunt May, under the watchful eye of his new mentor Tony Stark, Peter tries to fall back into his normal daily routine
-image: http://www.joblo.com/posters/images/full/Spiderman-poster-7-large.jpg
+header:
+ image: http://www.joblo.com/posters/images/full/Spiderman-poster-7-large.jpg
 
 ---
 

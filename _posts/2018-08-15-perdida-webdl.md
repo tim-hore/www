@@ -1,7 +1,8 @@
 ---
 title: Perdida (2018) WEB-dl
 description: Story based on the novel by Florencia Etcheves "Cornelia"
-image: https://i0.wp.com/www.newonnetflix.ca/wp-content/uploads/2018/07/perdida.jpg
+header:
+ image: https://i0.wp.com/www.newonnetflix.ca/wp-content/uploads/2018/07/perdida.jpg
 video:
  title: Perdida
  quality: WEBDL

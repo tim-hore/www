@@ -2,7 +2,8 @@
 layout: post
 title: I Kill Giants (2017) Bluray
 description: Kisah perjalanan petualangan Barbara Thorson
-image: https://i0.wp.com/windows-torrent-download.net/wp-content/uploads/2018/03/I-Kill-Giants-2017-1080p-WEB-DL-620x330.jpg
+header:
+ image: https://i0.wp.com/windows-torrent-download.net/wp-content/uploads/2018/03/I-Kill-Giants-2017-1080p-WEB-DL-620x330.jpg
 video:
  title: I Kill Giants
  release: 2017

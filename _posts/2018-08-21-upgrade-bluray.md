@@ -1,7 +1,8 @@
 ---
 title: Upgrade (2018) Bluray
 description: when Grey, a self-identified technophobe, has his world turned upside down..
-image: https://cdn.vox-cdn.com/uploads/chorus_image/image/59017125/upgrade_124969_1.0.jpg
+header:
+ image: https://cdn.vox-cdn.com/uploads/chorus_image/image/59017125/upgrade_124969_1.0.jpg
 poster: https://i2.wp.com/www.360naijang.com/wp-content/uploads/2018/08/Upgrade-2018-Yagiloadedng.net_.jpg
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Miracle Session (2018) Bluray
-image: "https://i0.wp.com/entractfilms.com/includes/images/posters/_posterLarge/Miracle-Season-Banner-Standee-5x8-EN-LORES.jpg" 
+header:
+ image: "https://i0.wp.com/entractfilms.com/includes/images/posters/_posterLarge/Miracle-Season-Banner-Standee-5x8-EN-LORES.jpg" 
 description: The Miracle Season is a 2018 American drama film directed by Sean McNamara_
 video:
  title: Miracle Session
