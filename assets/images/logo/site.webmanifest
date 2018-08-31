@@ -1,0 +1,20 @@
+{
+    "name": "NontonPilem",
+    "short_name": "NontonPilem",
+    "icons": [
+        {
+            "src": "/assets/images/logo/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/images/logo/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#dbaf12",
+    "background_color": "#dbaf12",
+    "start_url": "https://www.nontonpilem.ml",
+    "display": "standalone"
+}
