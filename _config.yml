@@ -1,30 +1,72 @@
-title: Nonton Pilem
-author: Gratisan
-email: admin@nontonpilem.ml
-description: Pilem pilen indonesa gratis untu ditonton tanpa iklan  ya gaess. Your pilem site is here.
-# social links
-twitter_username: jekyllrb
-github_username:  jekyll
-rss: rss
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-show_excerpts: true # set to true to show excerpts on the homepage
-
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.html
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: NontonPilem
+email: me@montonpilem.ml
+#description: > # this means to ignore newlines until "baseurl:"
+description: "Nonton Pilem Gratis? di sini aja 
+baseurl:  # the subpath of your site, e.g. /blog
+url: https://nontonpilem.ml # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: nontonpilem.ml
+#twitter_username: easton042
+#github_username:  easton042
+#linkedin_username:  eastonlee
 
 # Build settings
 markdown: kramdown
 theme: minima
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
-include:
-  - index.php
-  - .httaccess
+  - .sass-cache
+
+safe: false
+
+# easton
+permalink: /blog/:year/:month/:title/
+
+# minima theme, deprecated
+show_downloads: false
+# google_analytics: UA-58961104-2
+
+# poole theme, being used, just need to modify font-size in _variables.scss
+#html {
+#  font-size: 14px;
+#  line-height: 1.5;
+#}
+#@media (min-width: 38em) {
+#  html {
+#    font-size: 20px;
+#  }
+#}
+tagline: experientialism
+paginate:            1
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+author: Pilem
+
+# analytics_id: UA-58961104-2
+
+# disqus:
+  shortname: eastonlee
+
+excerpt_separator: <!--more-->
