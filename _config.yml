@@ -247,6 +247,10 @@ tag_archive:
 # - http://jch.penibelst.de/
 compress_html:
   clippings: all
+  comments: all
+  blanklines: true
+  endings: all
+  startings: [head, html, body]
   ignore:
     envs: development
 
