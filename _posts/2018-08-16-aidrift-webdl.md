@@ -18,7 +18,6 @@ video:
  link: https://goo.gl/2uDHzP
 
 ---
-![{{ page.title }}]({{ page.image }})
 {% include movie.md %}
 
 Starring Shailene Woodley and Sam Claflin, Adrift is based on the inspiring true story of two free spirits whose chance encounter leads them first to love, and then to the adventure of a lifetime. As the two avid sailors set out on a journey across the ocean, Tami Oldham (Woodley) and Richard Sharp (Claflin) couldn't anticipate they would be sailing directly into one of the most catastrophic hurricanes in recorded history. In the aftermath of the storm, Tami awakens to find Richard badly injured and their boat in ruins.
